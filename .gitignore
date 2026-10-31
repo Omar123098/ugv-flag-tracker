@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# WiFi credentials (never commit)
+include/secrets.h
+
+# OS
+.DS_Store
